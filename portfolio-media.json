@@ -1,0 +1,31 @@
+{
+  "featuredWork": [
+    {
+      "title": "Featured Edit 01",
+      "videoUrl": "media/featured-edit-01.mp4",
+      "posterUrl": "media/featured-edit-01-poster.png"
+    },
+    {
+      "title": "Video Project 2",
+      "videoUrl": "media/video-project-2.mp4",
+      "posterUrl": "media/video-project-2-poster.jpg"
+    }
+  ],
+  "reels": [
+    {
+      "title": "Parenting — Gold Glow",
+      "videoUrl": "media/parenting-final-gold-glow-1080x1920.mp4",
+      "posterUrl": "media/parenting-final-gold-glow-poster.jpg"
+    },
+    {
+      "title": "Editing Sample 01",
+      "videoUrl": "media/editing-sample-01-181848.mp4",
+      "posterUrl": "media/editing-sample-01-poster.jpg"
+    },
+    {
+      "title": "Editing Sample 02",
+      "videoUrl": "media/editing-sample-02-182551.mp4",
+      "posterUrl": "media/editing-sample-02-poster.jpg"
+    }
+  ]
+}
